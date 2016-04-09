@@ -1,0 +1,15 @@
+{
+    "name": "arstechnicascope.noise",
+    "description": "Ars Technica Scope (unofficial)",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "title": "Ars Technica Scope",
+    "hooks": {
+        "arstechnicascope": {
+            "scope": "arstechnicascope",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Bret Barker <bret.barker@canonical.com>"
+}

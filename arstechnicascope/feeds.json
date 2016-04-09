@@ -1,0 +1,54 @@
+[
+    {
+        "label": "All",
+        "id": "http://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+        "label": "Features",
+        "id": "http://feeds.arstechnica.com/arstechnica/features"
+    },
+    {
+        "label": "Technology Lab",
+        "id": "http://feeds.arstechnica.com/arstechnica/technology-lab"
+    },
+    {
+        "label": "Gear & Gadgets",
+        "id": "http://feeds.arstechnica.com/arstechnica/gadgets"
+    },
+    {
+        "label": "Ministry of Innovation",
+        "id": "http://feeds.arstechnica.com/arstechnica/business"
+    },
+    {
+        "label": "Risk Assessment",
+        "id": "http://feeds.arstechnica.com/arstechnica/security"
+    },
+    {
+        "label": "Law & Disorder",
+        "id": "http://feeds.arstechnica.com/arstechnica/tech-policy"
+    },
+    {
+        "label": "Infinite Loop",
+        "id": "http://feeds.arstechnica.com/arstechnica/apple"
+    },
+    {
+        "label": "Opposable Thumbs",
+        "id": "http://feeds.arstechnica.com/arstechnica/gaming"
+    },
+    {
+        "label": "The Scientific Method",
+        "id": "http://feeds.arstechnica.com/arstechnica/science"
+    },
+    {
+        "label": "The Multiverse",
+        "id": "http://feeds.arstechnica.com/arstechnica/multiverse"
+    },
+    {
+        "label": "Cars Technica",
+        "id": "http://feeds.arstechnica.com/arstechnica/cars"
+    },
+    {
+        "label": "Staff Blogs",
+        "id": "http://feeds.arstechnica.com/arstechnica/staff-blogs"
+    }
+]
